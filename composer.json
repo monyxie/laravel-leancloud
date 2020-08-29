@@ -13,7 +13,7 @@
     ],
     "license": "MIT",
     "require": {
-        "leancloud/leancloud-sdk": "^0.8"
+        "leancloud/leancloud-sdk": "^0.13"
     },
     "autoload": {
         "psr-4": {
